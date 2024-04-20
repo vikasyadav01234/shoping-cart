@@ -16,3 +16,5 @@ export const CounterSlice = createSlice({
         }
     }
 })
+
+export const {increment, decrement}
