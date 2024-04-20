@@ -6,3 +6,5 @@ export const store = configureStore({
             counter: CounterSlice
         },
 })
+
+export default store.reducer;
