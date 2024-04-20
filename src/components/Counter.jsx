@@ -2,7 +2,20 @@ import React from 'react'
 
 const Counter = () => {
   return (
-    <div>Counter</div>
+    <div>
+        <button>
+            Increment
+        </button>
+        <br/>
+        <br/>
+        <div>{}</div>
+
+        <br/>
+        <br/>
+        <button>
+            Decrement
+        </button>
+    </div>
   )
 }
 
