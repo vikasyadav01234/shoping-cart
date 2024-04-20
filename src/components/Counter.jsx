@@ -8,7 +8,7 @@ const Counter = () => {
         </button>
         <br/>
         <br/>
-        <div>{}</div>
+        <div>{count}</div>
 
         <br/>
         <br/>
